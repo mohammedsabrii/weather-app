@@ -1,0 +1,2 @@
+D:/weather/android/app/.cxx/Debug/4s5m311n/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/weather/android/app/.cxx/Debug/4s5m311n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
